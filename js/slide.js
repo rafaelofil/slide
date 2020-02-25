@@ -174,6 +174,7 @@ export default class SlideNav extends Slide {
       event.preventDefault();
       this.changeSlide(index);
     });
+
     this.wrapper.addEventListener('changeEvent', this.activeControlItem);
   }
 
