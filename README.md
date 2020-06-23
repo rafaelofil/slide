@@ -1,5 +1,7 @@
-# Slide Javascript
+<h1 align="center">Slide Javascript</h1>
+
 <img src="./img/Home_Slide.jpg"/>
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
