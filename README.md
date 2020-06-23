@@ -7,8 +7,8 @@
 * [Final Considerations](#final-considerations)
 
 ## General Info
-Interactive slide made with JavaScript. It's possible navigation in slide of three ways,clicking on icon images, dragging the central images or by clicking the arrow buttons. 
-The project could be reused in another front-end aplications, just need adjust the parameters.
+<p>Interactive slide made with JavaScript. It's possible navigation in slide of three ways,clicking on icon images, dragging the central images or by clicking the arrow buttons.</p>
+<p>The project could be reused in another front-end aplications, just need adjust the parameters.</p>
 
 ## Technologies
 Project is created with:
@@ -25,14 +25,12 @@ $ npm clone git@github.com:rafaelofil/slide.git
 ```
 Or download the repository, after that just open.
 
-You can acess the link and check the slide :
-
-https://rafaelofil.github.io/slide/
+You can acess the link and check the slide : https://rafaelofil.github.io/slide/
 
 ## Final considerations
 
-Made in the Origamid JavaScript ES6 course.
-Any questions, just get in touch.
+<p>Made in the Origamid JavaScript ES6 course.</p>
+<p>Any doubt, feel free to get in touch.</p>
 
 <hr>
 <p align="center"> I hope you enjoy 😎</p>
