@@ -1,5 +1,5 @@
 # Slide Javascript
-<img src="Home_Slide.jpg"/>
+<img src="./img/Home_Slide.jpg"/>
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
