@@ -1,6 +1,6 @@
 <h1 align="center">Slide Javascript</h1>
 
-<a target="_blank" href="https://rafaelofil.github.io/slide/">
+<a href="https://rafaelofil.github.io/slide/" target="_blank">
   <img src="./img/Home_Slide.jpg"/>
 </a>
 
